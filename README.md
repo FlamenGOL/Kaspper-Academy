@@ -6,8 +6,8 @@ ________________________________________________________________
 
 A Kaspper me concedeu uma bolsa para estudo FullStack:
 
-Frontend: Angular
-Backend: Java
+Frontend: Angular.
+Backend: Java.
 
 As aulas iniciaram em Fevereiro de 2023 e o bootcamp terá duração de 6 meses.
 
